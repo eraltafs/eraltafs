@@ -61,5 +61,8 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraltafs&" alt="eraltafs" />
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&hide_border=true&layout=compact" align="center"/> 
 </div>
