@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF722&width=435&lines=I+am+Full+Sack+Developer;I+am+Node+Back-end+ Developer;Learning+Node+Express+MongoDB)](https://git.io/typing-svg)
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 80%" />
 </div>  
