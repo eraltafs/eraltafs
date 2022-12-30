@@ -59,10 +59,10 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&count_private=true&hide_border=true" align="center"  style="margin: 10px" /></div>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraltafs&" alt="eraltafs" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraltafs&" alt="eraltafs" style="margin: 10px"  />
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&hide_border=true&layout=compact" align="center"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&hide_border=true&layout=compact" align="center" style="margin: 10px" /> 
 </div>
