@@ -51,7 +51,7 @@
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/eraltafs" target="_blank">
+<a href="https://eraltafs.github.io" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/altaf-khan-8a5424231/" target="_blank">
