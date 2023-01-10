@@ -1,11 +1,12 @@
 ### <div align="center">Hi ! I'm Altaf Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </div>
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I+am+Full+Sack+Developer;I+am+Node+Back-end+Developer;Learning+Node+Express+MongoDB)](https://git.io/typing-svg)
-</div> 
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Sack Developer;I am Node Back-end Developer;" width="max-content" align="center" style="margin-left:35px; width:100%;>
+</div>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 80%" />
-</div>  
+</div>
 
 <br/>
 <br/>
@@ -19,6 +20,7 @@
 <br/>
 
 ## My Skill Set
+
 <div align="center">
 <table margin="auto"><tr><td valign="top">
 
@@ -38,9 +40,8 @@
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 20px" src="https://programadev.com.br/static/9ff3232ef2ea482c1931b79f40243cf0/capa-node-express-rest.png" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
-<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 
 </div>
 
@@ -60,8 +61,7 @@
 <a href="https://wa.me/+919649878584/" target="_blank">
 <img src=https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
