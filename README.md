@@ -78,3 +78,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&hide_border=true&layout=compact" align="center" style="margin: 20px" /> 
 </div>
+
+## GitHub Trophies
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithanss" alt="rohithanss" /></a> </p>
+  
