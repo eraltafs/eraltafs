@@ -71,9 +71,9 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&count_private=true&hide_border=true" align="center"  style="margin: 20px" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&count_private=true&theme=onedark" align="center"  style="margin: 20px" /></div>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraltafs&" alt="eraltafs" style="margin: 20px"  />
+<img align="center" src="https://streak-stats.demolab.com/?user=eraltafs&theme=onedark" alt="eraltafs" style="margin: 20px"  />
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&hide_border=true&layout=compact" align="center" style="margin: 20px" /> 
@@ -81,5 +81,5 @@
 
 ## GitHub Trophies
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithanss" alt="rohithanss" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eraltafs&theme=onedark" alt="rohithanss" /></a> </p>
   
