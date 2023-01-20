@@ -76,7 +76,7 @@
 <img align="center" src="https://streak-stats.demolab.com/?user=eraltafs&theme=onedark" alt="eraltafs" style="margin: 20px"  />
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&hide_border=true&layout=compact" align="center" style="margin: 20px" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&hide_border=true" align="center" style="margin: 20px" /> 
 </div>
 
 ## GitHub Trophies
