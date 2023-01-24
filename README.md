@@ -81,5 +81,5 @@
 
 ## GitHub Trophies
   
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eraltafs&theme=onedark" alt="rohithanss" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eraltafs&theme=onedark" alt="eraltafs" /> </p>
   
