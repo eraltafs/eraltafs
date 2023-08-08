@@ -1,7 +1,7 @@
 ### <div align="center">Hi ! I'm Altaf Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Sack Developer;I am Node Back-end Developer;" width="max-content" align="center" style="margin-left:35px; width:100%;>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Sack Developer;I am Node Back-end Developer;" width="max-content" align="center" style="margin-left:100px; width:100%;>
 </div>
 
 <div align="center">
