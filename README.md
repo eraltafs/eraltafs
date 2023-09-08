@@ -1,56 +1,24 @@
-### <div align="center">Hi ! I'm Altaf Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </div>
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&align=center&color=2DF722&width=435&lines=I am Full Sack Developer;I am Node Back-end Developer;" width="max-content" align="center" style="margin-left:100px; width:100%;>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 60%" />
-</div>
-
-
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-- 🌱 I’m currently learning Node Express and MongoDB
-<br/>
-- ❓ Ask me about anything related to Node Express and MongoDB and related technologies
-</div>  
-<br/>
-
-## My Skill Set
-
-<div align="center">
-<table margin="auto"><tr><td valign="top">
-
-### <div align="center"> Frontend </div>
-
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-</div>
-
-</td><td valign="top">
-
-### <div align="center"> Backend </div>
-
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 20px" src="https://programadev.com.br/static/9ff3232ef2ea482c1931b79f40243cf0/capa-node-express-rest.png" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-
-</div>
-
-</td></tr></table>
-</div>
-<br/>
-
-## Connect with me
+<div align="center" margin="auto">
+ <h1>Hi There, This is Altaf Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
+  A self-motivated, hard-working and ambitious JavaScript Back-endDeveloper with proficiency in HTML, CSS, JavaScript and Node.Problem-solving mindset and the ability to perform well in collaboration.1300+ hours of coding and hands-on experience in developing two fullyfunctional web applications. Looking forward to working as anaccountable and competent employee in an exciting tech company.
+  </div>
+  </br> 
+<table> 
+ <tr>
+  <td> 
+  <img src="https://komarev.com/ghpvc/?username=eraltafs&color=blueviolet&style=for-the-badge">
+  <p>  ◦ 💻 I am currently learning React and Advance NodeJs.</p>
+  <p>  ◦ 💭  Ask me about <b> Data Structures and Algorithms, React and Javascript.</b> </p>
+  <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Full-Stack Web Developer. </p>
+  <p>  ◦ 📧 Connect with me at  <a href="mailto:eralaf688@gmail.com"> eralaf688@gmail.com </a></p>
+ </td>
+ <td> 
+   <img align="right" width="400px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding"> 
+ </td>
+ </tr>
+</table>
+<div> 
+ <h3>Let's Connect: </h3>
 
 <div align="center">
 <a href="https://eraltafs.github.io/" target="_blank">
@@ -65,13 +33,43 @@
 </div>
 
 <br/>
-
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&count_private=true&hide_border=true" align="center"  style="margin: 20px" /></div>
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eraltafs&" alt="eraltafs" style="margin: 20px"  />
 </div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&hide_border=true&layout=compact" align="center" style="margin: 20px" /> 
+<div>
+ <h3>Languages and Tools: </h3>
+  <div>
+  <h4>Front-End</h4>
+    <p>
+        <a>
+            <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+        </a>
+    </p>
+     <h4>Back-End</h4>
+    <p>
+        <a>
+            <img src="https://skillicons.dev/icons?i=nodejs,express,mongo"/>
+        </a>
+    </p>
+     <h4>Tools</h4>
+    <p>
+        <a>
+            <img src="https://skillicons.dev/icons?i=github,git,vscode,"/>
+        </a>
+    </p>
+ </div>
 </div>
+ <h3> Trophies: </h3>
+<!--  <div align="center"> -->
+ <img src="https://github-profile-trophy.vercel.app/?username=eraltafs&theme=tokyonight">
+<!--  </div> -->
+ <h3> Stats: </h3>
+ <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&layout=compact&theme=tokyonight&langs_count=7"/>
+ </div>
+ <p></p>
+ <p></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&theme=tokyonight" width="49%">
+  <div>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=eraltafs&theme=tokyonight" width="49%">
+  </div>
+ </div>
