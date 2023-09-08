@@ -36,7 +36,7 @@
 </div>
 <div>
  <h3>Languages and Tools: </h3>
-  <table border="1px" style="border-collapse: collapse;">
+  <table>
       <thead>
         <th><h4>Front-End</h4></th>
         <th><h4>Backend-End</h4></th>
