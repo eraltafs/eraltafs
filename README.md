@@ -34,7 +34,7 @@
 
 <br/>
 </div>
-<div>
+<div align="center">
  <h3>Languages and Tools: </h3>
   <table>
       <thead>
@@ -45,7 +45,7 @@
         <tr>
           <td>
             <a>
-              <img src="https://skillicons.dev/icons?i=html,css,js" />
+              <img src="https://skillicons.dev/icons?i=html,css,js,react" />
             </a>
           </td>
           <td>
