@@ -40,6 +40,7 @@
       <thead>
         <th><h4>Front-End</h4></th>
         <th><h4>Backend-End</h4></th>
+        <th><h4>Tools</h4></th>
       </thead>
       <tbody>
         <tr>
@@ -53,24 +54,14 @@
               <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
             </a>
           </td>
+          <td>
+            <a>
+              <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+            </a>
+          </td>
         </tr>
       </tbody>
     </table>
-</div>
-
-<div>
-
-<table> 
-
- <tr>
-  <td> 
-  
- </td>
- <td> 
- </td>
- </tr>
-</table>
-
 </div>
 
 
@@ -80,14 +71,25 @@
  <img src="https://github-profile-trophy.vercel.app/?username=eraltafs&theme=tokyonight">
 <!--  </div> -->
  <h3> Stats: </h3>
+
+
+
+
+
  <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&layout=compact&theme=tokyonight&langs_count=7"/>
- </div>
- <p></p>
- <p></p>
+  <table>
+      <tbody>
+        <tr>
+          <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&theme=tokyonight" width="100%">
+          </td>
+          <td>
+           <img src="https://github-readme-streak-stats.herokuapp.com/?user=eraltafs&theme=tokyonight" width="100%">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eraltafs&show_icons=true&theme=tokyonight" width="49%">
-  <div>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=eraltafs&theme=tokyonight" width="49%">
-  </div>
- </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraltafs&layout=compact&theme=tokyonight&langs_count=7"width="60%"/>
+</div>
