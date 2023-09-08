@@ -36,27 +36,45 @@
 </div>
 <div>
  <h3>Languages and Tools: </h3>
-  <div>
-  <h4>Front-End</h4>
-    <p>
-        <a>
-            <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-        </a>
-    </p>
-     <h4>Back-End</h4>
-    <p>
-        <a>
-            <img src="https://skillicons.dev/icons?i=nodejs,express,mongo"/>
-        </a>
-    </p>
-     <h4>Tools</h4>
-    <p>
-        <a>
-            <img src="https://skillicons.dev/icons?i=github,git,vscode,"/>
-        </a>
-    </p>
- </div>
+  <table border="1px" style="border-collapse: collapse;">
+      <thead>
+        <th><h4>Front-End</h4></th>
+        <th><h4>Backend-End</h4></th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <a>
+              <img src="https://skillicons.dev/icons?i=html,css,js" />
+            </a>
+          </td>
+          <td>
+            <a>
+              <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 </div>
+
+<div>
+
+<table> 
+
+ <tr>
+  <td> 
+  
+ </td>
+ <td> 
+ </td>
+ </tr>
+</table>
+
+</div>
+
+
+
  <h3> Trophies: </h3>
 <!--  <div align="center"> -->
  <img src="https://github-profile-trophy.vercel.app/?username=eraltafs&theme=tokyonight">
