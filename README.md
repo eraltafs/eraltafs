@@ -40,7 +40,6 @@
       <thead>
         <th><h4>Front-End</h4></th>
         <th><h4>Backend-End</h4></th>
-        <th><h4>Tools</h4></th>
       </thead>
       <tbody>
         <tr>
@@ -52,11 +51,6 @@
           <td>
             <a>
               <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
-            </a>
-          </td>
-          <td>
-            <a>
-              <img src="https://skillicons.dev/icons?i=vscode,git,github" />
             </a>
           </td>
         </tr>
