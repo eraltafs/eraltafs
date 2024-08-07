@@ -28,7 +28,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://wa.me/+919649878584/" target="_blank">
-<img src=https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/whatsapp-%231E77.svg?style=for-the-badge&logo=whatsapp&p alt=whatsapp style="margin-bottom: 5px;" />
 </a>  
 </div>
 
